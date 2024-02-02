@@ -13,4 +13,4 @@
 
 [Screenshot for fib.py output](https://github.com/infernalkernel/Assignment-1-Python-Refresher/blob/main/fib%20output.txt)
 
-[Screenshot for fib.py time graph](https://github.com/infernalkernel/Assignment-1-Python-Refresher/blob/main/fib.png)
+![Screenshot for fib.py time graph](https://github.com/infernalkernel/Assignment-1-Python-Refresher/blob/main/fib.png)
