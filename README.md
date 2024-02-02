@@ -1,6 +1,6 @@
 # Assignment-1-Python-Refresher
 ## First Assignment for CS:3980
 ### Contains two python files, echo.py and fib.py
-echo.py is a file that contains the method "echo" which emulates a real-world echo by taking a string input and outputting it, iteratively removing letters
+[echo.py](https://github.com/infernalkernel/Assignment-1-Python-Refresher/blob/main/echo.py) is a file that contains the method "echo" which emulates a real-world echo by taking a string input and outputting it, iteratively removing letters
 
-fib.py contains a recursive method to calculate the fibonacci sequence, makes use of timer to keep track of time needed, also uses the lru_cache for efficiency, also creates a graph to analyze the efficiency of the recursive calculation
+[fib.py](https://github.com/infernalkernel/Assignment-1-Python-Refresher/blob/main/fib.py) contains a recursive method to calculate the fibonacci sequence, makes use of timer to keep track of time needed, also uses the lru_cache for efficiency, also creates a graph to analyze the efficiency of the recursive calculation
